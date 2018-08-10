@@ -8,9 +8,9 @@ else if (a===b || b===c || c==b)
 {
   alert("This is an isosceles triange")
   }
-  else if( (a+b) > c || (b+c) > a || (a+c) > b);{
+  else if( (a+b) > c || (b+c) > a || (a+c) > b){
     alert("This is a scalene triangle");
     }
-     else ( (a+b) <=c || (b+c) <= a || (a+c) <= b);{
-     alert("This is not a triangle");
+     else {
+     alert("This is not a triangle")
     }
