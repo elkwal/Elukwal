@@ -6,4 +6,6 @@ alert("This is an equilateral triange");
 }
 else if (a===b || b===c || c==b)
 {
-  alert
+  alert("This is an isosceles triange")
+  }
+  else if
