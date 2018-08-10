@@ -5,3 +5,5 @@ if  (a===b && b===c) {
 alert("This is an equilateral triange");
 }
 else if (a===b || b===c || c==b)
+{
+  alert
