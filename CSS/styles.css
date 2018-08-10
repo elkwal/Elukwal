@@ -10,3 +10,8 @@ h1 {
   font-size: 45;
   font-weight: bold;
 }
+h2 {
+  color: Blue;
+  text-align: left;
+  font-size: 39;
+}
