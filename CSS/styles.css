@@ -28,3 +28,8 @@ ol {
   font-size: 45;
   color: Blue
 }
+ul {
+    color: Black;
+    text-align: left;
+    font-size: 30;
+  }
