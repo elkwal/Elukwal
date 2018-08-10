@@ -8,4 +8,4 @@ else if (a===b || b===c || c==b)
 {
   alert("This is an isosceles triange")
   }
-  else if
+  else if( (a+b) > c || (b+c) > a || (a+c) > b);{
