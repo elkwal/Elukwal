@@ -4,3 +4,9 @@ body {
   text-align: left;
   background-color: violet;
 }
+h1 {
+  color: Blue;
+  text-align: center;
+  font-size: 45;
+  font-weight: bold;
+}
